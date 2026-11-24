@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Explore a sinister world with environments based on Vietnam culture and a storyline inspired by Vietnam myths and folklore.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,11 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Windows 10 | macOS 11.0 or later |
+| **Processor** | Min: Intel® Core™ i3 or AMD Ryzen™ 3 / Rec: Intel® Core™ i5 or AMD Ryzen™ 5 | Intel Core i5 / Apple M1 |
+| **Memory** | Min: 6 GB RAM / Rec: 8 GB RAM | 6 GB RAM |
+| **Graphics** | Min: NVIDIA® GeForce® GTX 560 or better / Rec: NVIDIA® GeForce® GTX 1060 or AMD Radeon™ RX 480 | Metal-capable GPU |
+| **Storage** | 10 GB available space | 10 GB available space |
 
 ---
 
